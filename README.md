@@ -15,7 +15,7 @@ I create more than  3-4 figures/tables to illustrate the findings as a Jupyter n
 The analysis focuses on the following aspects:
 
 Regional differences in the implementation of solar, wind, agriculture,population  and investments
-The results of the analysis will be presented in the form of figures and tables.
+The results of the analysis will be presented in the form of figures. (For tables, the source CSV file was too large and it would mess up my formatting)
 
 # Creator
 Lavdrim Haxhiu
